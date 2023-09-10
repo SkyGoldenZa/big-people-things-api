@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# dotenv
+.env
+
+# IDE's / Editors
+.idea
+.vscode
+
+# lock
+yarn.lock
+pnpm-lock.yaml
+
+# build
+build
+
+# OS specific
+.DS_Store
+*.swp
+Thumbs.db
